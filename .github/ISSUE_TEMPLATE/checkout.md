@@ -1,6 +1,6 @@
 ---
-name: Work Item
-about: A specific work item to support an SOW Deliverable/Acceptance entry
+name: Checkout Modules
+about: modules that are currently checked out and being developed
 title: "Title"
 labels: ":ship: work-item"
 assignees: ''
