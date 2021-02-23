@@ -1,7 +1,7 @@
 ---
 name: Checkout Modules
 about: modules that are currently checked out and being developed
-title: "Title"
+title: "checked out: modules"
 labels: ":ship: work-item"
 assignees: ''
 
@@ -11,9 +11,14 @@ assignees: ''
 
 <Insert Text Here>
   
-## Dependencies
+## Modules
 
-- [ ] ...
+- [ ] xx
+- [ ] xxcs
+- [ ] xxdrs
+- [ ] xxhr
+- [ ] xxre
+- [ ] xxsr
 
 ## Linked Items
 
